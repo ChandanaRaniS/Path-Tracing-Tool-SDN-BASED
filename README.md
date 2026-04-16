@@ -174,14 +174,16 @@ The script includes:
 
 ## 11. Demo Screenshots
 
-Include screenshots showing:
 
-* pingall results
-* Host-to-host communication
-* Controller logs showing path tracing
-* Failure and recovery scenarios
 
----
+### Ping Test
+![Ping](pingall.png)
+
+### Path Tracing Output
+![Path](path.png)
+
+### Failure Scenario
+![Failure](failure.png)
 
 ## 12. GitHub Repository
 
